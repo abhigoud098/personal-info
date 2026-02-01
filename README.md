@@ -2,7 +2,7 @@
 
 # Hey! I'm Abhishek — Full Stack Dev in Progress 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&width=435&lines=React+%7C+Next.js+%7C+Node.js;Express+%7C+MongoDB+%7C+Tailwind;UI%2FUX+%7C+Figma;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&width=435&lines=React.js+%7C+%7C+Node.js;Express.js+%7C+MongoDB+%7C+Tailwind;UI%2FUX+%7C+Figma;)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif">
@@ -11,10 +11,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech, passionate about **Full Stack Development**
-- 💻 Building end-to-end web apps using **React.js, (Basics: Next.js, Express, MongoDB)**
+- 💻 Building end-to-end web apps using **React.js, (Basics: Node.js, Express.js, MongoDB)**
 - 🎨 Love crafting clean, modern UI/UX in **Figma**
 - 🧩 Solved problems
-- 🌱 Currently learning **backend scaling & deployment (Vercel / Render)**
+- 🌱 Currently learning **backend scaling & deployment (Vercel)**
 - ⚡ Motto: *Code. Learn. Build. Repeat.*
 
 ---
