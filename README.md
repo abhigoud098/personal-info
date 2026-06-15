@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Abhishek%20Goud%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-# Hey! I'm Abhishek — Frontend Dev 🚀
+# Hey! I'm Abhishek — Full Stack Dev 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&width=435&lines=React.js+%7C+%7C+Node.js;Express.js+%7C+MongoDB+%7C+Tailwind;UI%2FUX+%7C+Figma;)](https://git.io/typing-svg)
 
