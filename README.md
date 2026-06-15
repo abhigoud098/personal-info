@@ -65,8 +65,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigoud098&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigoud098&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=abhigoud098&theme=tokyonight&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=abhigoud098&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
