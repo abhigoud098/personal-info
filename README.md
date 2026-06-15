@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech, passionate about **Web Development**
-- 💻 Building end-to-end web apps using **React.js, (Basics: Node.js, Express.js, MongoDB)**
+- 💻 Building end-to-end web apps using React.js, Node.js, Express.js, and MongoDB
 - 🎨 Love crafting clean, modern UI/UX in **Figma**
 - 🧩 Solved problems
 - 🌱 Currently learning **backend scaling & deployment (Vercel)**
