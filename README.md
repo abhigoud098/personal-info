@@ -1,10 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Abhishek%20Goud&fontSize=40&fontColor=ffffff)
 
-# Hi, I'm Abhishek Goud 👋
+<h1 align="center">Hi 👋, I'm Abhishek Goud</h1>
 
-### Frontend Developer • React.js • TypeScript • Web3 Learner
+<h3 align="center">
+Frontend Developer • React.js • TypeScript • Next.js
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+Blockchain+and+Web3;Always+Learning)](https://git.io/typing-svg)
+<p align="center">
+Building scalable web applications • Exploring Web3 • Always learning
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=React.js+Developer;Building+Production-Ready+Frontend+Applications;Creating+Clean+UI+and+Great+User+Experiences;Exploring+Blockchain+and+Web3;Learning+Something+New+Every+Day" />
+</p>
 
 ---
 
@@ -118,5 +125,3 @@ During my internship, I also worked on integrating a blockchain-based certificat
 ---
 
 > *"Building software with a focus on simplicity, performance, and continuous learning."*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
