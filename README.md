@@ -2,21 +2,19 @@
 
 # Hi, I'm Abhishek Goud 👋
 
-### Frontend Developer | React.js | TypeScript | Web3 Learner
+### Frontend Developer • React.js • TypeScript • Web3 Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00C6FF&width=650&lines=Frontend+Developer;React.js+%7C+TypeScript+%7C+Next.js;Building+Scalable+Web+Applications;Learning+Web3+and+Blockchain;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+Blockchain+and+Web3;Always+Learning)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-I'm a Frontend Developer passionate about building responsive, scalable, and user-focused web applications.
+I'm a Frontend Developer with a strong interest in building scalable, performant, and user-focused web applications.
 
-Currently, I'm working as a **React.js Intern**, where I contribute to modern frontend applications using React, TypeScript, Redux Toolkit, and Tailwind CSS.
+Currently, I'm working as a **React.js Intern**, where I contribute to modern frontend applications using **React, TypeScript, Redux Toolkit, Tailwind CSS, and REST APIs**.
 
-Recently, I worked on a blockchain-based certificate verification system, where I integrated frontend features with Solidity smart contracts. That experience introduced me to Ethereum, digital signatures, smart contract interactions, and the broader Web3 ecosystem, which I'm actively exploring further.
-
-I enjoy understanding how systems work, writing maintainable code, and continuously improving my engineering skills through real-world projects.
+During my internship, I also worked on integrating a blockchain-based certificate verification platform, which introduced me to **Ethereum, Solidity, Hardhat, Ethers.js, digital signatures, and smart contract interactions**. That experience sparked my interest in Web3, and I'm continuing to deepen my understanding of blockchain technologies.
 
 ---
 
@@ -38,119 +36,67 @@ I enjoy understanding how systems work, writing maintainable code, and continuou
 
 <p>
 <img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://skillicons.dev/icons?i=ethereum" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hardhat,ethers,metamask" />
 </p>
-
-**Currently learning**
-
-- Solidity
-- Hardhat
-- Ethers.js
-- Smart Contract Security
-- Ethereum Architecture
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### 🔗 On-Chain Certificate Verification System
-
-Blockchain-based certificate verification platform built using Solidity, Hardhat, React, and Polygon Amoy.
-
-**Highlights**
-
-- Smart contract integration
-- Certificate verification workflow
-- Digital signature validation
-- Certificate search functionality
-- React frontend
-- Web3 wallet interaction
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏢 **Production-Ready React Admin Template** | Enterprise-grade React admin template developed during my internship, featuring reusable components, responsive dashboards, Redux Toolkit, RTK Query, authentication UI, theme support, and a scalable frontend architecture. | React • TypeScript • Vite • Tailwind CSS • Redux Toolkit • RTK Query • shadcn/ui |
+| 🔗 **On-Chain Certificate Verification** | Certificate issuance & verification platform on Polygon Amoy with React and Solidity integration. | React • Solidity • Hardhat • Ethers.js |
+| 🛒 **ShopVerce** | Responsive e-commerce application with product browsing, cart management, and API integration. | React • Context API • REST API |
+| 🔐 **Secret Notes Vault** | Backend-focused secure note management system featuring JWT authentication, role-based access control, server-side rendering, and complete CRUD operations with an admin dashboard. | Node.js • Express.js • MongoDB • EJS • JWT |
+| 🏪 **ShopSavy** | Modern inventory and shop management system with authentication, dashboard analytics, product management, order tracking, inventory search, and low-stock monitoring. | Next.js •Rest APIs  • Tailwind CSS |
 
 ---
 
-### 🛒 ShopVerce
-
-Modern e-commerce application built with React.
-
-**Highlights**
-
-- Context API
-- Product Search
-- Cart Management
-- Responsive Design
-- REST API Integration
-
----
-
-### 🔒 Secret Notes Vault
-
-Secure note management application.
-
-**Highlights**
-
-- JWT Authentication
-- Protected Routes
-- CRUD Operations
-- MongoDB
-- Express.js
-
----
-
-### 🍽️ Recipe Finder
-
-Recipe discovery application using REST APIs.
-
-**Highlights**
-
-- Live Search
-- API Integration
-- Local Storage
-- Responsive UI
-
----
-
-## Currently Learning
+## Currently Exploring
 
 - Advanced React Patterns
 - TypeScript
 - Next.js
-- Backend Architecture
-- Web3 Development
-- Blockchain Fundamentals
-- Smart Contract Development
+- Blockchain Development
+- Smart Contract Security
+- Web3 Architecture
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhigoud098&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigoud098&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhigoud098&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhigoud098&theme=tokyonight"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=abhigoud098&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhigoud098&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhigoud098&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ## Connect
 
-<p>
+<p align="left">
 
 <a href="https://linkedin.com/in/abhishek-goud">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abhigoud198484@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/abhigoud098">
@@ -165,10 +111,12 @@ Recipe discovery application using REST APIs.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=abhigoud098&style=for-the-badge&color=00C6FF)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhigoud098&style=for-the-badge&color=00C6FF"/>
+</p>
 
 ---
 
-> *"I enjoy building software that is clean, maintainable, and solves real problems while continuously learning modern technologies."*
+> *"Building software with a focus on simplicity, performance, and continuous learning."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
