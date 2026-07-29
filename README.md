@@ -1,92 +1,174 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Abhishek%20Goud%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Abhishek%20Goud&fontSize=40&fontColor=ffffff)
 
-# Hey! I'm Abhishek — Full Stack Dev 🚀
+# Hi, I'm Abhishek Goud 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&width=435&lines=React.js+%7C+%7C+Node.js;Express.js+%7C+MongoDB+%7C+Tailwind;UI%2FUX+%7C+Figma;)](https://git.io/typing-svg)
+### Frontend Developer | React.js | TypeScript | Web3 Learner
 
-
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif">
-
----
-
-### 👨‍💻 About Me
-- 🎓 B.Tech, passionate about **Web Development**
-- 💻 Building end-to-end web apps using React.js, Node.js, Express.js, and MongoDB
-- 🎨 Love crafting clean, modern UI/UX in **Figma**
-- 🧩 Solved problems
-- 🌱 Currently learning **backend scaling & deployment (Vercel)**
-- ⚡ Motto: *Code. Learn. Build. Repeat.*
-
----
-## 🧑‍💻 Skills
-
-
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
-  <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>   
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>      
-</div>
-
-</td><td valign="top" width="33%">
-
-
-### Other  
-<div align="center">  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a> 
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>
-</div>
-
-</td></tr>
-</table> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00C6FF&width=650&lines=Frontend+Developer;React.js+%7C+TypeScript+%7C+Next.js;Building+Scalable+Web+Applications;Learning+Web3+and+Blockchain;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigoud098&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigoud098&layout=compact&theme=tokyonight&hide_border=true)
+## About Me
+
+I'm a Frontend Developer passionate about building responsive, scalable, and user-focused web applications.
+
+Currently, I'm working as a **React.js Intern**, where I contribute to modern frontend applications using React, TypeScript, Redux Toolkit, and Tailwind CSS.
+
+Recently, I worked on a blockchain-based certificate verification system, where I integrated frontend features with Solidity smart contracts. That experience introduced me to Ethereum, digital signatures, smart contract interactions, and the broader Web3 ecosystem, which I'm actively exploring further.
+
+I enjoy understanding how systems work, writing maintainable code, and continuously improving my engineering skills through real-world projects.
 
 ---
 
-### 🌍 Connect with Me
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-goud)   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekgo49196)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/snapcode09)
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Web3
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+<img src="https://skillicons.dev/icons?i=ethereum" height="48"/>
+</p>
+
+**Currently learning**
+
+- Solidity
+- Hardhat
+- Ethers.js
+- Smart Contract Security
+- Ethereum Architecture
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,postman,vscode" />
+</p>
 
 ---
 
-  <p></p>
-  <a href="https://github.com/abhigoud098?tab=repositories" target="_blank" rel="noopener">
-    <img src="https://custom-icon-badges.demolab.com/badge/-%20Check%20My%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E&color=00C6FF" alt="Check My Repos"/>
-  </a>
-</div>
+## Featured Projects
+
+### 🔗 On-Chain Certificate Verification System
+
+Blockchain-based certificate verification platform built using Solidity, Hardhat, React, and Polygon Amoy.
+
+**Highlights**
+
+- Smart contract integration
+- Certificate verification workflow
+- Digital signature validation
+- Certificate search functionality
+- React frontend
+- Web3 wallet interaction
 
 ---
 
+### 🛒 ShopVerce
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer&text=Thanks%20for%20visiting!%20👀&fontSize=25&fontColor=ffffff)
+Modern e-commerce application built with React.
 
+**Highlights**
 
+- Context API
+- Product Search
+- Cart Management
+- Responsive Design
+- REST API Integration
 
+---
 
+### 🔒 Secret Notes Vault
+
+Secure note management application.
+
+**Highlights**
+
+- JWT Authentication
+- Protected Routes
+- CRUD Operations
+- MongoDB
+- Express.js
+
+---
+
+### 🍽️ Recipe Finder
+
+Recipe discovery application using REST APIs.
+
+**Highlights**
+
+- Live Search
+- API Integration
+- Local Storage
+- Responsive UI
+
+---
+
+## Currently Learning
+
+- Advanced React Patterns
+- TypeScript
+- Next.js
+- Backend Architecture
+- Web3 Development
+- Blockchain Fundamentals
+- Smart Contract Development
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhigoud098&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigoud098&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhigoud098&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Connect
+
+<p>
+
+<a href="https://linkedin.com/in/abhishek-goud">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhigoud098">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/snapcode09">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=abhigoud098&style=for-the-badge&color=00C6FF)
+
+---
+
+> *"I enjoy building software that is clean, maintainable, and solves real problems while continuously learning modern technologies."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
