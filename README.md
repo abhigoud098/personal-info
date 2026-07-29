@@ -51,11 +51,11 @@ During my internship, I also worked on integrating a blockchain-based certificat
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏢 **Production-Ready React Admin Template** | Enterprise-grade React admin template developed during my internship, featuring reusable components, responsive dashboards, Redux Toolkit, RTK Query, authentication UI, theme support, and a scalable frontend architecture. | React • TypeScript • Vite • Tailwind CSS • Redux Toolkit • RTK Query • shadcn/ui |
-| 🔗 **On-Chain Certificate Verification** | Certificate issuance & verification platform on Polygon Amoy with React and Solidity integration. | React • Solidity • Hardhat • Ethers.js |
-| 🛒 **ShopVerce** | Responsive e-commerce application with product browsing, cart management, and API integration. | React • Context API • REST API |
-| 🔐 **Secret Notes Vault** | Backend-focused secure note management system featuring JWT authentication, role-based access control, server-side rendering, and complete CRUD operations with an admin dashboard. | Node.js • Express.js • MongoDB • EJS • JWT |
-| 🏪 **ShopSavy** | Modern inventory and shop management system with authentication, dashboard analytics, product management, order tracking, inventory search, and low-stock monitoring. | Next.js •Rest APIs  • Tailwind CSS |
+| 🏢 **[Production-Ready React Admin Template](https://github.com/abhigoud098/Decent-Den)** | Enterprise-grade React admin template developed during my internship, featuring reusable components, responsive dashboards, Redux Toolkit, RTK Query, authentication UI, theme support, and a scalable frontend architecture. | React • TypeScript • Vite • Tailwind CSS • Redux Toolkit • RTK Query • shadcn/ui |
+| 🔗 **[On-Chain Certificate Verification](https://github.com/abhigoud098/Certificate-Varifcation-)** | Certificate issuance & verification platform on Polygon Amoy with React and Solidity integration. | React • Solidity • Hardhat • Ethers.js |
+| 🛒 **[ShopVerce](https://github.com/abhigoud098/shopverce-app)** | Responsive e-commerce application with product browsing, cart management, and REST API integration. | React • Context API • REST API |
+| 🔐 **[Secret Notes Vault](https://github.com/abhigoud098/Secret-Notes-Vault)** | Backend-focused secure note management system featuring JWT authentication, role-based access control, server-side rendering, and complete CRUD operations with an admin dashboard. | Node.js • Express.js • MongoDB • EJS • JWT |
+| 🏪 **[ShopSavy](https://github.com/abhigoud098/shopsavy-inventory-app)** | Modern inventory and shop management system with authentication, dashboard analytics, product management, order tracking, inventory search, and low-stock monitoring. | Next.js • REST APIs • Tailwind CSS |
 
 ---
 
