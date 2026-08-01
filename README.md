@@ -58,12 +58,13 @@ During my internship, I also worked on integrating a blockchain-based certificat
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🧠 **[DevOS - Developer Second Brain](https://github.com/yourusername/devos)** | Premium offline-first developer productivity workspace to manage learning, revisions, projects, notes, DSA preparation, and study progress. Built with IndexedDB using Dexie.js, featuring a smart spaced repetition engine, learning tracker, local data persistence, form validation, and scalable component architecture. | Next.js • React • TypeScript • Tailwind CSS • Dexie.js • IndexedDB • Zustand • React Hook Form • Zod • Framer Motion |
+| 🌐 **[Developer Portfolio](https://github.com/yourusername/portfolio)** | Personal developer portfolio designed to showcase projects, technical skills, and engineering journey. Features a modern responsive interface, smooth animations, interactive sections, and a premium user experience optimized for performance. | Next.js • TypeScript • Tailwind CSS • GSAP • Framer Motion |
 | 🏢 **[Production-Ready React Admin Template](https://github.com/abhigoud098/Decent-Den)** | Enterprise-grade React admin template developed during my internship, featuring reusable components, responsive dashboards, Redux Toolkit, RTK Query, authentication UI, theme support, and a scalable frontend architecture. | React • TypeScript • Vite • Tailwind CSS • Redux Toolkit • RTK Query • shadcn/ui |
 | 🔗 **[On-Chain Certificate Verification](https://github.com/abhigoud098/Certificate-Varifcation-)** | Certificate issuance & verification platform on Polygon Amoy with React and Solidity integration. | React • Solidity • Hardhat • Ethers.js |
 | 🛒 **[ShopVerce](https://github.com/abhigoud098/shopverce-app)** | Responsive e-commerce application with product browsing, cart management, and REST API integration. | React • Context API • REST API |
 | 🔐 **[Secret Notes Vault](https://github.com/abhigoud098/Secret-Notes-Vault)** | Backend-focused secure note management system featuring JWT authentication, role-based access control, server-side rendering, and complete CRUD operations with an admin dashboard. | Node.js • Express.js • MongoDB • EJS • JWT |
 | 🏪 **[ShopSavy](https://github.com/abhigoud098/shopsavy-inventory-app)** | Modern inventory and shop management system with authentication, dashboard analytics, product management, order tracking, inventory search, and low-stock monitoring. | Next.js • REST APIs • Tailwind CSS |
-
 ---
 
 ## Currently Exploring
