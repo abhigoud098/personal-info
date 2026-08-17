@@ -30,7 +30,7 @@ During my internship, I also worked on integrating a blockchain-based certificat
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite,redux" />
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite,redux,java" />
 </p>
 
 ### Backend
