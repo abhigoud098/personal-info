@@ -102,8 +102,41 @@ const abhishek = {
 ### 🌐 Web3
 
 <p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=hardhat,ethers,metamask" />
+  <img
+    src="https://skillicons.dev/icons?i=solidity"
+    height="55"
+    alt="Solidity"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/hardhat"
+    height="55"
+    alt="Hardhat"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/ethers"
+    height="55"
+    alt="Ethers.js"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/wagmi"
+    height="55"
+    alt="Wagmi"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/wevm/viem/main/site/public/icon.svg"
+    height="55"
+    alt="Viem"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/metamask"
+    height="55"
+    alt="MetaMask"
+  />
 </p>
 
 ### 🛠️ Tools
@@ -111,7 +144,6 @@ const abhishek = {
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
 </p>
-
 ---
 
 # 🚀 Featured Projects
@@ -142,7 +174,25 @@ const abhishek = {
 
 ---
 
-# 🌐 Web3 Journey
+### 🌐 Web3
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=solidity" height="55" alt="Solidity"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Hardhat-141414?style=flat-square&logo=hardhat&logoColor=white" alt="Hardhat"/>
+
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+
+<img src="https://img.shields.io/badge/Wagmi-4F46E5?style=flat-square&logo=react&logoColor=white" alt="Wagmi"/>
+
+<img src="https://img.shields.io/badge/Viem-111111?style=flat-square&logo=typescript&logoColor=white" alt="Viem"/>
+
+<img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask"/>
+
+</p>
 
 ```text
 React / Next.js
@@ -171,21 +221,53 @@ Decentralized Applications
 
 ---
 
-# 📊 GitHub Activity
+### 🛠️ Tools
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhigoud098&theme=tokyo-night&hide_border=true&area=true"/>
+<p align="left">
+
+<img
+  src="https://skillicons.dev/icons?i=git"
+  height="50"
+  alt="Git"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=github"
+  height="50"
+  alt="GitHub"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=postman"
+  height="50"
+  alt="Postman"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=figma"
+  height="50"
+  alt="Figma"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=vercel"
+  height="50"
+  alt="Vercel"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=vscode"
+  height="50"
+  alt="VS Code"
+/>
+
+<img
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/swagger.svg"
+  height="50"
+  alt="Swagger"
+/>
+
 </p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhigoud098&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhigoud098&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhigoud098&theme=tokyonight" width="48%"/>
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -196,23 +278,6 @@ Decentralized Applications
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhigoud098&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhigoud098/abhigoud098/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
-<i>Turning contributions into a snake 🐍</i>
-</p>
 
 ---
 
