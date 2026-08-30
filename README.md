@@ -30,32 +30,75 @@ That experience sparked my interest in Web3, and I'm continuing to deepen my und
 ### 🎨 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite,redux,java" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,vite,redux" />
 </p>
+
+- React.js
+- TypeScript
+- Next.js
+- JavaScript
+- Tailwind CSS
+- Redux Toolkit
+- TanStack Query (React Query)
+- Vite
 
 ### ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🌐 Web3
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+### 🗃️ State Management
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,ipfs" height="55" />
-  <img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/hardhat/default.svg"
-  height="55"
-  width="55"
-  alt="Hardhat"
-/>
+  <img src="https://skillicons.dev/icons?i=redux" />
 </p>
+
+- Redux Toolkit — client/application state
+- TanStack Query — server/API state
+- React Query caching & data synchronization
+
+### 🌐 Web3
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" height="55" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/hardhat/default.svg"
+    height="55"
+    width="55"
+    alt="Hardhat"
+  />
+</p>
+
+- Solidity
+- Hardhat
+
+### ☕ Typed Language
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+- Java
 
 ### 🛠️ Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
 </p>
 
+- Git
+- GitHub
+- Postman
+- Figma
+- Vercel
+- VS Code
+- Swagger
 
 # 🚀 Featured Projects
 
