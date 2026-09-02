@@ -75,7 +75,7 @@ That experience sparked my interest in Web3, and I'm continuing to deepen my und
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
 </p>
-- Swagger
++Swagger
 
 # 🚀 Featured Projects
 
