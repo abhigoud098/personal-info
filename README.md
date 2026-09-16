@@ -36,7 +36,7 @@ This experience sparked my interest in **Web3**, and I continue to explore block
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,nextjs" />
 </p>
 
 ### 🗃️ State Management
