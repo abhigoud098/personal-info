@@ -8,11 +8,6 @@ Software Engineer • Builder • Problem Solver
 Building scalable software • Exploring Web3 & AI • Understanding systems under the hood
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Building+Reliable+and+Scalable+Software;Solving+Real-World+Engineering+Problems;Exploring+Web3+and+AI;Strengthening+Software+Engineering+Fundamentals;Always+Learning%2C+Building%2C+Improving" />
-</p>
-
-
 ---
 
 ## 👨‍💻 About Me
