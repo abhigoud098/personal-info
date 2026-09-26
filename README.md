@@ -9,8 +9,9 @@ Building scalable software • Exploring Web3 & AI • Understanding systems und
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=React.js+Developer;Building+Production-Ready+Frontend+Applications;Creating+Clean+UI+and+Great+User+Experiences;Exploring+Blockchain+and+Web3;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Building+Reliable+and+Scalable+Software;Solving+Real-World+Engineering+Problems;Exploring+Web3+and+AI;Strengthening+Software+Engineering+Fundamentals;Always+Learning%2C+Building%2C+Improving" />
 </p>
+
 
 ---
 
