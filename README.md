@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Abhishek Goud</h1>
 
 <h3 align="center">
-Frontend Developer • React.js • TypeScript • Next.js
+Software Engineer • Builder • Problem Solver
 </h3>
 
 <p align="center">
-Building scalable web applications • Exploring Web3 • Always learning
+Building scalable software • Exploring Web3 & AI • Understanding systems under the hood
 </p>
 
 <p align="center">
@@ -16,13 +16,14 @@ Building scalable web applications • Exploring Web3 • Always learning
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** focused on building scalable, performant, and user-focused web applications.
+I'm a **Software Engineer** who enjoys building reliable, scalable, and production-ready software.
 
-Currently, I'm working full-time as a **React.js Developer**, where I build and contribute to modern frontend applications using **React, TypeScript, Redux Toolkit, Tailwind CSS, and REST APIs**. I focus on writing maintainable, reusable, and production-ready code while building intuitive user experiences.
+I’m driven by curiosity and enjoy understanding how systems work under the hood, solving engineering problems, and turning ideas into practical products.
 
-My experience also includes working with a **blockchain-based certificate verification platform**, where I gained hands-on exposure to **Ethereum, Solidity, Hardhat, Ethers.js, digital signatures, and smart contract interactions**.
+My work and projects span **modern web applications, blockchain, developer tools, and AI-powered products**, with a focus on writing clean, maintainable, and thoughtful software.
 
-This experience sparked my interest in **Web3**, and I continue to explore blockchain technologies alongside my core expertise in frontend development.
+Currently, I’m strengthening my **core software engineering fundamentals** while expanding my knowledge across **backend development, system design, and emerging technologies.
+
 ---
 
 # ⚡ Tech Stack
