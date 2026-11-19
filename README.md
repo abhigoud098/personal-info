@@ -56,17 +56,10 @@ Currently, I’m strengthening my **core software engineering fundamentals** whi
     width="55"
     alt="Hardhat"
   />
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/9/9f/IPFS_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
-    height="55"
-    width="55"
-    alt="IPFS"
-  />
 </p>
 
 - Solidity
 - Hardhat
-- IPFS
 
 ### ☕ Typed Language
 
